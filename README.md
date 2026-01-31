@@ -78,7 +78,4 @@ python imgNoiser.py
 This project was developed within the educational TP Project for the Game Theory course in the final year Visual Computing program, demonstrating the practical application of game theory concepts to computer vision.
 
 ## 👥 Contributors
-• [BOUDINA Aicha Hanaa](https://github.com/Hanaa-22) 
-• [ASSABAT Lamis](https://github.com/laem2) 
-• [SAIDI Fatma Zohra](https://github.com/fatmazohrasaidi)  
-• [MECHAIRI Nesrine](https://github.com/MechairiNesrine)
+• [BOUDINA Aicha Hanaa](https://github.com/Hanaa-22) • [ASSABAT Lamis](https://github.com/laem2) • [SAIDI Fatma Zohra](https://github.com/fatmazohrasaidi)  • [MECHAIRI Nesrine](https://github.com/MechairiNesrine) •
